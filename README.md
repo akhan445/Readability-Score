@@ -1,4 +1,4 @@
-# Readability_Score
+# Readability Score
 
 This program uses a scientific approach to determine the difficulty level (readability) of a text document. This program uses the template design pattern to accomplish this task.
 
