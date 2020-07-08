@@ -2,8 +2,6 @@
 
 This program uses a scientific approach to determine the difficulty level (readability) of a text document. This program uses the template design pattern to accomplish this task.
 
-To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/39?goal=7)
-
 The Source files for this project can be found by navigating to:
       
       Readability Score/task/src/readability/
